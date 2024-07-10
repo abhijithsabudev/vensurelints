@@ -11,3 +11,7 @@
 ## 1.0.4
 
 - new rules.
+
+## 1.0.5
+
+- rules modified.

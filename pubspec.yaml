@@ -1,6 +1,6 @@
 name: vensurelints
 description: vensure coding standard lints for mobile applications.
-version: 1.0.4
+version: 1.0.5
 repository: https://github.com/abhijithsabudev/vensurelints.git
 
 environment:

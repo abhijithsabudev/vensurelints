@@ -7,3 +7,7 @@
 ## 1.0.3
 
 - rules version.
+
+## 1.0.4
+
+- new rules.
